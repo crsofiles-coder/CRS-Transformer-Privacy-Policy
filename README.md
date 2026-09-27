@@ -73,4 +73,4 @@ If you have any questions, concerns, or suggestions regarding this Privacy Polic
 
 * **App Name:** CRS Transformer
 * **Publisher:** Moonlighter App Studio
-* **Support Email:** `support@moonlighter.app`
+* **Support Email:** `mnbcalc@gmail.com`
